@@ -38,9 +38,9 @@ osx:examples $ mkdir newex
 
 osx:myproject $ mv ../newex.txt ./
 
-_simple_function(){
+simple_function(){
   echo "This is a function."
   echo "Now exiting."
 }
-_simple_function
+simple_function
 ```
