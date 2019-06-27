@@ -1,8 +1,6 @@
 # We need to start with setting up a directory and manipulating files. 
-
-# `osx:~ $` is the prompt; `$`, is the command; `#` is the comment
-
-# This basic script greatly benefitted from Jake VanderPlas and "Software Carpentry"
+# `osx:~ $` is the prompt from the root; `$`, is the command; `#` is the comment
+# This basic script greatly benefitted from Jake VanderPlas
 
 # First tell the terminal we are using a "bash" shell
 
