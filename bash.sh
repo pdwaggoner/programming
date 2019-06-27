@@ -1,10 +1,7 @@
-# We need to start with setting up a directory and manipulating files. 
 # `osx:~ $` is the prompt from the root; `$`, is the command; `#` is the comment
 # This basic script greatly benefitted from Jake VanderPlas
 
-# First tell the terminal we are using a "bash" shell
-
-#!/bin/bash                            
+# First, tell the terminal we are using a "bash" shell, e.g., !/bin/bash                            
 
 # Next, basic command is to echo (`print` in R and Python; `return` in R)
 # Note the "" == verbatim character return
