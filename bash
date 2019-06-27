@@ -1,6 +1,8 @@
-As an example, here is a sample of a Linux/OSX shell session where a user explores, creates, and modifies directories and files on their system (`osx:~ $` is the prompt, and everything after the `$` sign is the typed command; text that is preceded by a `#` is meant just as description, rather than something you would actually type in):
+We need to start with setting up a directory and manipulating files. Note that (`osx:~ $` is the prompt, and everything after the `$` sign is the typed command; text that is preceded by a `#` is meant just as description, rather than something you would actually type in):
 
-``` bash
+## This basic script greatly benefitted from [Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html).
+
+```{bash}
 #!/bin/bash                            # tells the terminal that you are using bash shell
 
 osx:~ $ echo "hello world"             # echo is like Python's print function
