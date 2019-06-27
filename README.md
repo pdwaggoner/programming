@@ -1,6 +1,6 @@
 # programming
 
-`programming` is very much a work-in-progress repo for a bunch of basic tasks in several useful languages. Useful meaning, useful to me. 
+`programming` is very much a work-in-progress repo for a bunch of basic tasks in several useful languages. "Useful" == useful to me, *not* in the normative sense. 
 
 Languages include:
 
