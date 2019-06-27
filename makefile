@@ -1,4 +1,4 @@
-``` makefile
+``` make
 target: dependencies
     system command(s)
 ```
