@@ -4,7 +4,7 @@
 # First, tell the terminal we are using a "bash" shell, e.g., !/bin/bash                            
 
 # Next, basic command is to echo (`print` in R and Python; `return` in R)
-# Note the "" == verbatim character return
+# Note the "" = verbatim character return
 
 osx:~ $ echo "hello world"
 
